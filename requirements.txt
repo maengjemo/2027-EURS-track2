@@ -1,0 +1,3 @@
+# Extra pip packages beyond the organizers' base image (PyTorch 2.4.0, onnx, timm, ...).
+# onnxsim is needed only by export_onnx.py (graph simplification step of the submitted file).
+onnxsim==0.8.1

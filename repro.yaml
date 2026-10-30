@@ -1,0 +1,6 @@
+# The organizers rebuild this file from your factsheet and the leaderboard, so it only has to be valid here.
+team: GIST                      # TODO(user): exactly as registered on macvi.org
+track: eurs-t2
+submission_id: 19347            # best-scoring testing-phase Track 2 submission (composite 0.383)
+contact: maengjemo@gm.gist.ac.kr
+hardware: RTX 5090 (training and export, CPU export)
